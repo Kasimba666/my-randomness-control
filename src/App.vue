@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h1>Управление серийностью в случайности</h1>
     <OutcomeInput />
   </div>
 </template>
@@ -16,5 +15,8 @@ export default {
 </script>
 
 <style>
-/* Добавьте ваши стили здесь */
+h1 {
+  font-size: 20px;
+  margin-top: 0;
+}
 </style>
